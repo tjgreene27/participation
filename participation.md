@@ -21,9 +21,30 @@ alone with Google?
 # Lecture 2
 
 ## How Did I Prepare Before Lecture?
-
+Went to the TA's office hours and fixed Linux problems so I would be ready for class. 
 
 ## How Did I Contribute During Lecture?
 
+
 ## What Was or Is The Most Confusing Thing?
 
+
+# Lecture 3
+
+## How Did I Prepare Before Lecture?
+My car was totaled from the flood and I was unable to make it to class
+## How Did I Contribute During Lecture?
+I was absent 
+
+## What Was or Is The Most Confusing Thing?
+bash
+
+# Lecture 4
+
+## How Did I Prepare Before Lecture?
+I figured out how to access and make this participation document, and I started my cheat sheet since I was absent the last class.
+
+## How Did I Contribute During Lecture?
+
+
+## What Was or Is The Most Confusing Thing?

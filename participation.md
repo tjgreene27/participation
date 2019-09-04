@@ -45,6 +45,7 @@ bash
 I figured out how to access and make this participation document, and I started my cheat sheet since I was absent the last class.
 
 ## How Did I Contribute During Lecture?
-
+I helped Jacob with some small errors he was making and asked questions when they arose. 
 
 ## What Was or Is The Most Confusing Thing?
+Still not sure if I am doing this participation correctly, also the change mode thing. even after using chmod it still said i did not have permission

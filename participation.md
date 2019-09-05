@@ -49,3 +49,27 @@ I helped Jacob with some small errors he was making and asked questions when the
 
 ## What Was or Is The Most Confusing Thing?
 Still not sure if I am doing this participation correctly, also the change mode thing. even after using chmod it still said i did not have permission
+
+# Lecture 5
+
+## How Did I Prepare Before Lecture?
+I skimmed previous readings that I needed to catch up on, and updated and added to my cheat sheet. 
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?
+
+# Lecture 6
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?
+
+# Lecture 7
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?

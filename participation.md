@@ -53,7 +53,9 @@ Still not sure if I am doing this participation correctly, also the change mode 
 # Lecture 5
 
 ## How Did I Prepare Before Lecture?
-I skimmed previous readings that I needed to catch up on, and updated and added to my cheat sheet. 
+I skimmed previous readings that I needed to catch up on, and updated and added to my cheat sheet. I also skimmed through 363 to 494
+and greatly expanded my cheat sheet. 
+
 ## How Did I Contribute During Lecture?
 
 ## What Was or Is The Most Confusing Thing?

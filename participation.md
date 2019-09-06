@@ -54,7 +54,7 @@ Still not sure if I am doing this participation correctly, also the change mode 
 
 ## How Did I Prepare Before Lecture?
 I skimmed previous readings that I needed to catch up on, and updated and added to my cheat sheet. I also skimmed through 363 to 494
-and greatly expanded my cheat sheet. 
+and greatly expanded my cheat sheet. Finally I also bought two pads of sticky notes since I lost the ones that were handed out.
 
 ## How Did I Contribute During Lecture?
 

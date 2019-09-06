@@ -57,8 +57,10 @@ I skimmed previous readings that I needed to catch up on, and updated and added 
 and greatly expanded my cheat sheet. Finally I also bought two pads of sticky notes since I lost the ones that were handed out.
 
 ## How Did I Contribute During Lecture?
+Compared notes with Ryan and Jacob and we added to each others. I kept up with the slides and downloaded and performed the commands we were going over. 
 
 ## What Was or Is The Most Confusing Thing?
+NA 
 
 # Lecture 6
 

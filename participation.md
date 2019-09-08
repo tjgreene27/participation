@@ -65,6 +65,7 @@ NA
 # Lecture 6
 
 ## How Did I Prepare Before Lecture?
+I have my github account ready, and I have read through the readme of hw1 and the template, as well as skimmed the license. 
 
 ## How Did I Contribute During Lecture?
 

@@ -68,8 +68,9 @@ NA
 I have my github account ready, and I have read through the readme of hw1 and the template, as well as skimmed the license. Furthermore, I downloaded the git cheat sheet and skimmed the first 3 chapters of the Git book.
 
 ## How Did I Contribute During Lecture?
-
+Continously asked Ryan for help and really tested his knowledge about what was going on. 
 ## What Was or Is The Most Confusing Thing?
+Getting lost in files and directories but I got it figured out with Ryans help. 
 
 # Lecture 7
 

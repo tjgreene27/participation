@@ -65,7 +65,7 @@ NA
 # Lecture 6
 
 ## How Did I Prepare Before Lecture?
-I have my github account ready, and I have read through the readme of hw1 and the template, as well as skimmed the license. 
+I have my github account ready, and I have read through the readme of hw1 and the template, as well as skimmed the license. Furthermore, I started my git cheat sheet and skimmed the first 3 chapters of the Git book.
 
 ## How Did I Contribute During Lecture?
 

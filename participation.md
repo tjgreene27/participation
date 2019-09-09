@@ -24,10 +24,10 @@ alone with Google?
 Went to the TA's office hours and fixed Linux problems so I would be ready for class. 
 
 ## How Did I Contribute During Lecture?
-
+I didn't really. Kept up with my green and red cards. 
 
 ## What Was or Is The Most Confusing Thing?
-
+NA
 
 # Lecture 3
 

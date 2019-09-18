@@ -116,6 +116,38 @@ Participated with being the main computer for my group, and followed along with 
 
 The difference between a function in git and a function of github. Like how you were saying the whole forking thing is github, but not git. 
 
+# Lecture 9
+
+## How Did I Prepare Before Lecture?
+
+Prepared homework 2 repository so we could edit it quickly in class, and brushed over chapters 5 and 6 and updated my cheat sheet. 
+
+## How Did I Contribute During Lecture?
+
+Our team was the first to merge our github usernames successfully. Furthermore I followed along with the merge conflict example. 
+
+## What Was or Is The Most Confusing Thing?
+
+How you are 35 yet look like you are 14. 
+
+# Lecture 10
+
+## How Did I Prepare Before Lecture?
+
+Reviewed my old ME400 notes, but I took the class with Babin two summers ago, so I didn't know what slides you were talking about.
+
+## How Did I Contribute During Lecture? 
+
+## What Was or Is The Most Confusing Thing?
+
+# Lecture 11
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture? 
+
+## What Was or Is The Most Confusing Thing? 
+
 # Lecture 
 
 ## How Did I Prepare Before Lecture?

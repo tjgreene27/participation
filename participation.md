@@ -138,15 +138,41 @@ Reviewed my old ME400 notes, but I took the class with Babin two summers ago, so
 
 ## How Did I Contribute During Lecture? 
 
+Followed along with lecture with messing with python a little.
+
 ## What Was or Is The Most Confusing Thing?
+
+Nothing was confusing. 
 
 # Lecture 11
 
 ## How Did I Prepare Before Lecture?
 
+Practiced some with python, trying to refamiliarize myself with it. Didn't do anything more than inputs, prints and if statements. 
+
 ## How Did I Contribute During Lecture? 
 
+Did the examples you were doing in class in python.
+
 ## What Was or Is The Most Confusing Thing? 
+
+In the dictionaries, you said the value and the key is like a phonebook with a name and number but i am still a little confused on exactly what the "key" thing means. Something with kwargs?
+
+# Lecture 
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?
+
+# Lecture 
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?
 
 # Lecture 
 

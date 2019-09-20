@@ -156,7 +156,7 @@ Did the examples you were doing in class in python.
 
 ## What Was or Is The Most Confusing Thing? 
 
-In the dictionaries, you said the value and the key is like a phonebook with a name and number but i am still a little confused on exactly what the "key" thing means. Something with kwargs?
+Pretty much everything Gabe talks about.
 
 # Lecture 
 

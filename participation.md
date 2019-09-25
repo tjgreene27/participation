@@ -158,13 +158,19 @@ Did the examples you were doing in class in python.
 
 Pretty much everything Gabe talks about.
 
-# Lecture 
+# Lecture 12
 
 ## How Did I Prepare Before Lecture?
 
+Didn't do anything really... I did my finite elements class homework, which is reviewing finite difference in a way.
+
 ## How Did I Contribute During Lecture?
 
+Asked about the decimals in binary and completed the decimal -> binary and binary-> decimal exercise except the .1 bc that was tricky. 
+
 ## What Was or Is The Most Confusing Thing?
+
+Still a little confused with exactly what the IEEE standard is. 
 
 # Lecture 
 
